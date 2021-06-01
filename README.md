@@ -7,4 +7,4 @@ Em breve trarei uma atualização com mais ferramentas e com novos recursos, mas
 
 <img src=amogos_logo.jpg>
 
-Arte por Aleph YunYun
+Arte por Aleph YunYun https://www.facebook.com/aleph.guerraii
