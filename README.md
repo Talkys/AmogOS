@@ -5,5 +5,6 @@ Como fazer um sistema operacional leva muito tempo e muitas vezes temos que refa
 
 Em breve trarei uma atualização com mais ferramentas e com novos recursos, mas não sei se esse em breve é tão breve assim. 
 
-[<img src=amogos_logo.jpg>]
+<img src=amogos_logo.jpg>
+
 Arte por Aleph YunYun
