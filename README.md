@@ -10,11 +10,11 @@ Primeiramente vc tem que instalar o cosmos no seu pc. Infelizmente ele é um plu
 
 Antes de usar o sistema vc tem que instalar o seguinte:
 
-> Visual Studio Community
+> Visual Studio Community https://visualstudio.microsoft.com/pt-br/vs/community/
 >
-> COSMOS
+> COSMOS https://www.gocosmos.org/download/
 >
-> VMWare 
+> VMWare https://www.vmware.com/br/products/workstation-player.html
 
 Depois de instalar tudo isso vc vai poder rodar o sistema sem problemas.
 
