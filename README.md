@@ -1,9 +1,32 @@
 # AmogOS
 ### Introdução
-Bem vindo ao AmogOS, um sistema operacional (ou quase) feito do zero em C e Assembly. A maior parte do código foi feito com base nos guias da OSDev e no manual da oficial Intel.
-Como fazer um sistema operacional leva muito tempo e muitas vezes temos que refazer as coisas do zero, os arquivos nesse repositório serão os mais atualizados que podem funcionar, junto com a ISO do sistema, que você pode testar usando o QEMU.
+Este é o AmogOS. Um SO bem básico  que surgiu como uma zoeira não muito saudável a partir de um projeto bem tosco de emulador. Originalmente eu escrevi uma ISO completamente na unha, mas a preguiça bateu forte e eu decidi usar o COSMOS. O sistema está em um mínimo funcional, e eu tenho outros projetos pra cuidar além dele; por isso não pretendo soltar atualizações tão brevemente. Todavia encorajo quem quiser implementar novas coisas pra ele, uma vez que o código fonte tá aí pra todos verem.
 
-Em breve trarei uma atualização com mais ferramentas e com novos recursos, mas não sei se esse em breve é tão breve assim. 
+### Instalação
+
+Primeiramente vc tem que instalar o cosmos no seu pc. Infelizmente ele é um plugin do Visual Studio (que vc tem que instalar tbm) e só vai funfar no windows. Quando você instalar o COSMOS e o Visual Studio, crie um projeto do cosmos em c# e na pasta do projeto cole os arquivos que estão na pasta ali em cima (menos o csproj). Depois disso clique na setinha verde lá em cima pra compilar.
+
+### Dependencias
+
+Antes de usar o sistema vc tem que instalar o seguinte:
+
+> Visual Studio Community
+>
+> COSMOS
+>
+> VMWare 
+
+Depois de instalar tudo isso vc vai poder rodar o sistema sem problemas.
+
+### Observações
+
+Existem muitos bugs no sistema de arquivos, mas acho que menos do que seu tivesse feito à mão. Nunca jamais crie uma pasta ou arquivo chamado 0:\ alguma coisa, pois isso vai ferrar o sistema de arquivos (ainda vou por essa restrição implementada).
+
+O assembler tá pronto mais ainda não escrevi a documentação, que deve ir em algum tempo.
+
+Depois que vc compilar o sistema uma vez, vc vai poder abrir ele direto pelo vmware e desse jeito ele vai rodar mais rápido.
+
+Eu não sou o Linus Torvalds, então não esperem que isso vá se tornar um marco histórico dos SO.
 
 <img src=amogos_logo.jpg>
 
